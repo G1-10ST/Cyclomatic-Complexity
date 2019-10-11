@@ -1,6 +1,6 @@
 # Cyclomatic-Complexity
 
-[![Generic badge](https://img.shields.io/badge/<CYCLOMATIC>-<COMPLEXITY>-<BLUE>.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/CYCLOMATIC-COMPLEXITY-<BLUE>.svg)](https://shields.io/)
 
 This is a repository for codes written to calculate cyclomatic complexity of a C program having conditional statements and loops.
 Cyclomatic complexity is given as 
